@@ -20,4 +20,5 @@ If everything is running than you can go to the phpmyadmin and you click on the 
 
 If everything is running, you can download and run the code from this repository and it should host your website.
 
-![image](https://github.com/user-attachments/assets/ab286736-fdf1-40e4-936f-752614797014)
+![image](https://github.com/user-attachments/assets/c62039fd-a073-4fa9-bdc6-52d1f882690c)
+
