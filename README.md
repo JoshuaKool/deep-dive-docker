@@ -19,3 +19,5 @@ After you have installed docker than you can do this command in your command pro
 If everything is running than you can go to the phpmyadmin and you click on the database with the name promptbook than click on sql and than paste the code from import.sql in it or if you already have the database than you can run the code from reset.sql.
 
 If everything is running, you can download and run the code from this repository and it should host your website.
+
+![image](https://github.com/user-attachments/assets/9a2b6453-4d1e-4b60-a05b-e967f2bd6500)
